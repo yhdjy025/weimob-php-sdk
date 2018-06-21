@@ -1,6 +1,7 @@
 {
     "name": "yhdjy025/weimob-php-sdk",
     "description": "weimob api sdk for php",
+    "homepage": "https://github.com/yhdjy025/weimob-php-sdk.git",
     "require": {
         "php": ">=5.6",
         "rmccue/requests": "v1.7.0",
