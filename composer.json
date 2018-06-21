@@ -1,0 +1,22 @@
+{
+    "name": "yhdjy025/weimob-php-sdk",
+    "description": "weimob api sdk for php",
+    "require": {
+        "php": ">=5.6",
+        "rmccue/requests": "v1.7.0",
+        "league/oauth2-client": "2.3.0"
+    },
+    "authors": [
+        {
+            "name": "yhdjy025",
+            "email": "506260367@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+
+    "autoload": {
+        "psr-4": {
+            "MiniUpload\\": "src/"
+        }
+    } 
+}
